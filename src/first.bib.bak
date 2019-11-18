@@ -1,0 +1,48 @@
+% Encoding: UTF-8
+
+@Article{Sabitay2011,
+  author  = {Oguz Sabitay""'"},
+  title   = {Perks of being very smart""{}},
+  journal = {what is this?},
+  year    = {2011},
+}
+
+@Booklet{thisIsAKey,
+  title = {Very Strong People},
+}
+
+@Misc{specialKey,
+  author       = {ben yazar},
+  title        = {sanane},
+  howpublished = {published really well},
+  month        = jun,
+  year         = {1234},
+  note         = {an important note},
+  abstract     = {i dont know what this field is},
+  comment      = {no comm},
+  keywords     = {23, old, ancient, sacred, smart},
+  timestamp    = {2019-10-17},
+}
+
+@Proceedings{2200202sjjdjs,
+  title  = {this is a new proceeding},
+  year   = {2002},
+  editor = {asjhd},
+}
+
+@Booklet{,
+  title = {ajajajajajaja},
+  year  = {99},
+}
+
+@Booklet{,
+  title = {lololol},
+  year  = {998asd},
+}
+
+@Booklet{,
+  title = {amk seizi},
+  year  = {981},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
